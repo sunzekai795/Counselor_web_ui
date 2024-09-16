@@ -1,0 +1,13 @@
+*.sh
+*.ipynb
+*.json
+*.log
+openai_private_config.py
+.env
+test/
+test/*
+.vscode/*
+usr_datas/
+usr_datas/*
+prompts
+prompts/*
